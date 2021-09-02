@@ -323,8 +323,6 @@ class numbersSum{
     this.cache[inputNums] = sum
     return sum
   }
-
-
 }
 
 /*

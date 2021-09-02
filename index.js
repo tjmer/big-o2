@@ -131,7 +131,7 @@ function getNumbersSquared(numbers) {
 
 
 // Q: Is it possible to improve this function's space complexity? If it is, write a new function below.
-// ANSWER:Yes,
+// ANSWER:Yes, I think.
 function squareNum (numbers) {
   let answers = numbers.map(x => x*x)
   return answers
